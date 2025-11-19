@@ -1,0 +1,25 @@
+{
+  "name": "ankhema-react-native",
+  "version": "1.0.0",
+  "description": "react native helper components and function",
+  "keywords": [
+    "ankhema",
+    "react",
+    "native"
+  ],
+  "homepage": "https://github.com/ankhemanta/ankhema-react-native#readme",
+  "bugs": {
+    "url": "https://github.com/ankhemanta/ankhema-react-native/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankhemanta/ankhema-react-native.git"
+  },
+  "license": "MIT",
+  "author": "Hemanta Ankura",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
